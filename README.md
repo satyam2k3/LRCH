@@ -2,7 +2,8 @@
 
 ## 🏥 LRCH: LLM using RAG & CAG for Healthcare Applications
 
-![Architecture Diagram](https://github.com/user-attachments/assets/09d6439d-4d7d-46c6-be69-6a2535d21a29)
+
+<img width="890" height="746" alt="New drawio" src="https://github.com/user-attachments/assets/56918f6d-3e08-4be6-b4d1-7084e220b669" />
 
 ---
 
